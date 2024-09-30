@@ -689,30 +689,24 @@ margin-left: 10px;}
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.ecn {
     background: white;
     background-image: url("../images/cqf_logo.svg"); }
-  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.didi {
+  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.adp {
     background: white;
-    background-image: url("../images/didi.svg"); }
-  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.stone {
+    background-image: url("../images/adp_logo.svg"); }
+  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.btg {
     background: white;
-    background-image: url("../images/stone.svg"); }
-  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.kearney {
+    background-image: url("../images/btg.svg"); }
+  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.siemens {
     background: white;
-    background-image: url("../images/kearney.svg"); }
-  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.morgan {
-    background: blue;
-    background-image: url("../images/morgan.svg"); }
+    background-image: url("../images/siemens.svg"); }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.total {
     background: white;
     background-image: url("../images/total.svg"); }
-  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.carrefour {
+  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.visagio {
     background: white;
-    background-image: url("../images/carrefour.svg"); }
-  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.nasa {
+    background-image: url("../images/visagio.svg"); }
+  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.viridios {
     background: white;
-    background-image: url("../images/nasa.svg"); }
-  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.xminds {
-    background: white;
-    background-image: url("../images/xminds.svg"); }
+    background-image: url("../images/viridios_ai.svg"); }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
     background: #fff;
     width: 20px;
